@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category_primary">
+        <item>@string/category_1</item>
+        <item>@string/category_2</item>
+        <item>@string/category_3</item>
+    </string-array>
+    <string-array name="category_flowers">
+        <item>Sunflower</item>
+        <item>Rose</item>
+        <item>Lily</item>
+        <item>Tulip</item>
+        <item>Lotus</item>
+    </string-array>
+    <string-array name="category_fruits">
+        <item>Apple</item>
+        <item>Grape</item>
+        <item>Orange</item>
+        <item>Watermelon</item>
+        <item>Banana</item>
+    </string-array>
+    <string-array name="category_vegetables">
+        <item>Carrot</item>
+        <item>Brocolli</item>
+        <item>Onion</item>
+        <item>Cucumber</item>
+        <item>Tomato</item>
+    </string-array>
+</resources>

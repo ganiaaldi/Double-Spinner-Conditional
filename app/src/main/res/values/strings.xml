@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DoubleSpinnerConditional</string>
+    <string name="category_1">Flowers</string>
+    <string name="category_2">Fruits</string>
+    <string name="category_3">Vegetables</string>
+</resources>
