@@ -3,4 +3,7 @@
     <string name="category_1">Flowers</string>
     <string name="category_2">Fruits</string>
     <string name="category_3">Vegetables</string>
+
+    <string name="pilih1">Pilih Kategori</string>
+    <string name="pilih2">Pilih Jenis</string>
 </resources>
